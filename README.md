@@ -6,5 +6,9 @@
     </head>
     <body>
         <div>A gallery of all my art pieces</div>
+        <img src="competition_entry.png" alt="discord server icon entry">
+        <img src="tubbee.jpg" alt="bee boy like a da bees">
+        <img src="origin!niki.jpg" alt="merling niki :)">
+        <img src="mod wilbur.png" alt="Phantombur">
     </body>
 </html>
